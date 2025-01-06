@@ -36,7 +36,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 <br>
 
 <details>
-  <summary><b>SteamVR headsets (Vive, Index, Bigscreen beyond)</b></summary>
+  <summary style="cursor: pointer"><b>SteamVR headsets (Vive, Index, Bigscreen beyond)</b></summary>
 
 
 
@@ -48,7 +48,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 <br>
 
 <details>
-  <summary><b>Windows Mixed Reality headsets</b></summary>
+  <summary style="cursor: pointer"><b>Windows Mixed Reality headsets</b></summary>
   
 
 
@@ -72,7 +72,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 <br>
 
 <details>
-  <summary><b>Pimax headsets</b></summary>
+  <summary style="cursor: pointer"><b>Pimax headsets</b></summary>
 
 ### A. Using OpenComposite (Highly recommended): 
 1. Make sure your headset is connected to your PC  
