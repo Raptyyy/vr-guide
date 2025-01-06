@@ -36,7 +36,9 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 
 <details>
   <summary><b>SteamVR headsets (Vive, Index, Bigscreen beyond)</b></summary>
-  
+
+
+
 ### A. Using SteamVR:  
 1. Make sure your headset is connected to your PC
 2. Install and set up SteamVR from Steam  
