@@ -33,6 +33,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 - using USB-C set the bitrate to 500mbps or higher in the Oculus Debug Tool. More info about the [Oculus Debug Tool here](https://smartglasseshub.com/oculus-debug-tool/).  
 
 </details>
+<br>
 
 <details>
   <summary><b>SteamVR headsets (Vive, Index, Bigscreen beyond)</b></summary>
@@ -44,6 +45,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 2. Install and set up SteamVR from Steam  
 3. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"
 </details>
+<br>
 
 <details>
   <summary><b>Windows Mixed Reality headsets</b></summary>
@@ -67,6 +69,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 4. Install Windows Mixed Reality for SteamVR from Steam  
 5. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 </details>
+<br>
 
 <details>
   <summary><b>Pimax headsets</b></summary>
