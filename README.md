@@ -11,3 +11,9 @@ If you have anything useful to add to the guide or see a mistake, feel free to m
 > [!NOTE]
 > For further help or if you want to report a game issue, join the Custom Shaders Patch discord and use the `virtual-reality-talk` channel  
 > [Custom Shaders Patch Discord](https://discord.gg/zN4XtmZ4Jf)
+
+## Prerequisites
+- Non-pirated copy of Assetto Corsa (Pirated copies do not get any support or help in the CSP discord)
+- Latest version of Content Manager  
+- Latest version of Custom Shaders Patch unless said otherwise.  
+- Latest version of Pure (Delivers the best image in VR)  
