@@ -3,7 +3,7 @@
 > Click on your brand of headset to expand the instructions, you only need to use one of the provided methods.
 
 <details>
-  <summary><b>Oculus / Meta</b></summary>
+  <summary style="cursor: pointer"><b>Oculus / Meta</b></summary>
 
 ### A. Native Oculus implementation (easiest method):  
 1. First make sure that you have successfully set up Quest link or Air link and that the headset is connected to your PC - [Tutorial how to do so](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/)  
