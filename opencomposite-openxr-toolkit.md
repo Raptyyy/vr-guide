@@ -1,4 +1,4 @@
-## OpenComposite and OpenXR Toolkit
+## 7. OpenComposite and OpenXR Toolkit
 
 # 7.1 OpenComposite
 Allows you to play SteamVR games without actually needing SteamVR, it is highly recommended for users wanting more performance.  
