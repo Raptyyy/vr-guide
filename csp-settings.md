@@ -1,7 +1,7 @@
 ## 6. Custom Shaders Patch settings
 I will not cover every setting in CSP (that would be a lot to cover), but only the ones that matter for VR performance.  
 
-### General Patch Settings
+# General Patch Settings
 **Audio > Decompress Samples** recommended to have it `enabled`. Reduces CPU overhead for higher memory (RAM) usage.  
 
 **New KN5 loader** recommended to have it `enabled`, reduces RAM and VRAM usage.  
@@ -16,14 +16,14 @@ GPU optimizations:
 - "**Deduplicate meshes**" helps with VRAM, have it `enabled`  
 - "**Upgrade AC textures**" can improve loading times and reduce VRAM usage, recommended to have it `enabled`. Can make the game folder size bigger.  
 
-### Extra FX
+# Extra FX
 Extra FX doesnt work in VR so this will have no effect, keep it `disabled` if you don't ever use Extra FX.  
 
-### GUI
+# GUI
 **New driver tags** recommended to have it `enabled` so you can see driver names in VR. Its not a performance tweak but a very useful thing to have.  
 **Font Scale** Set this to `125%` or higher if you struggle reading the names.  
 
-### Graphics Adjustments
+# Graphics Adjustments
 **AMD FidelityFX SuperResolution** also known as "FSR" is an upscaler that can help with performance by rendering the game at a lower resolution and then upscaling the image. Should only be needed for lower end PCs. Can also be used through the OpenXR Toolkit or VRPerfkit instead.    
 
 LOD settings:
@@ -39,19 +39,19 @@ LOD settings:
 
 **Draw grooves over track, but before dynamic entities** Can help with performance but can also cause issues on some tracks (Like mirror / see through roads), use with caution.  
 
-### Lighting FX
+# Lighting FX
 **Cars casting lights** set this to a lower amount like `5` for better performance in dense lobbies, lights are expensive performance wise.
 
 **Disable mirroring in first person view** helps with performance a bit, have it `enabled`  
 
 **Enable lighting in reflections** `disabled` for a performance boost  
 
-### Neck FX
+# Neck FX
 Not related to performance but there are good NeckFX scripts for VR to enhance immersion or comfort, here are two most popular ones: 
 - [AC Head Physics](https://www.overtake.gg/downloads/ac-head-physics.68266) fancier script, has more movement  
 - [NeckFX LUA script](https://www.overtake.gg/downloads/neckfx-lua-script-vr-stabilize.65087) more basic, static script.
 
-### Smart Mirror
+# Smart Mirror
 **Custom render distance** `enabled` and set the distance to 400 meters if you use High Quality mirrors in video settings, helps with performance.
 
 **Real mirrors** highly recommended in VR, makes the mirrors change perspective based on your head movement also lets you adjust mirror positioning through the "Car Mirrors" app in-game (Install it from the "App Shelf" app in-game first)  
@@ -59,21 +59,21 @@ Not related to performance but there are good NeckFX scripts for VR to enhance i
 - **Alter FOV** This will change the Field of View of the mirror depending how close you are to it. Set based on your preference, I have it `disabled`
 - **Refresh rate per frame** set to `Update single reflection per frame` for best performance, can look a little laggy on lower refresh rate headsets, use higher if needed.
 
-### Weather FX
+# Weather FX
 **Weather style** this should be set to either `Pure Gamma` or `Pure LCS`. `Pure Gamma` is the recommended option as of now and has better performance, `Pure LCS` is able to produce a better looking image but could cause some issues too.  
 
 **Replace YEBIS with lightweight alternative** is a more basic post-processing implementation which uses less CPU and GPU resources, for performance I would recommend to `enable` it. Does not work with some pp filters like C13.  
 
 **Automatically guess white reference point** This can make the UI very bright when using Pure, `disable` it.  
 
-### Mode Tweaks VR:
+# Mode Tweaks VR:
 Make sure the extension is enabled (Active)  
 
 **Single Pass Stereo** Highly recommended to have it `enabled`, especially on slower CPUs. It renders both eye images at the same time into one packed Render Texture, meaning that the whole Scene is only rendered once, and CPU processing time is significantly reduced. Can make some Pure shaders not work.  
 
 **Single YEBIS pass** Have it `enabled` for best performance if needed. Instead of running post-processing individually for each eye, runs it once for both eyes. Can potentially affect glare effects in an undesirable way.  
 
-### Nvidia VRS
+## Nvidia VRS
 also known as Foveated rendering ([What is Foveated Rendering](#6-what-is-foveated-rendering)), only works for Nvidia GPUs.  
 If you want to use Nvidia VRS (Requires Single Pass Stereo to be enabled):  
 - **Nvidia VRS** `enabled`
