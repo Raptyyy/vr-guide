@@ -10,9 +10,8 @@ Some headsets with eye tracking can support Dynamic Foveated Rendering (more inf
 
 
 Ways to enable / use Foveated rendering (Use only one of these methods):  
-- Enable "Nvidia VRS" in Custom Shaders Patch, [explained further here](#nvidia-vrs) (Easiest way to enable it)  
-- Enable Foveated Rendering in the OpenXR Toolkit if you're using OpenComposite, [explained further here](#recommended-settings-for-the-toolkit) (Gives more adjustability compares to Nvidia VRS)  
+- Enable "Nvidia VRS" in Custom Shaders Patch, [explained further here](#csp-settings/nvidia-vrs) (Easiest way to enable it)  
+- Enable Foveated Rendering in the OpenXR Toolkit if you're using OpenComposite, [explained further here](#opencomposite-openxr-toolkit/recommended-settings-for-the-toolkit) (Gives more adjustability compares to Nvidia VRS)  
 - For Pimax users you can enable Foveated Rendering in Pimax Play (More convenient but less options compared to the OpenXR Toolkit)  
-- VRPerfKit also has Foveated Rendering, [explained further here](#10-vrperfkit) (Only recommended for SteamVR users who want more adjustability compared to Nvidia VRS)  
 
 ?> Foveated rendering might be easily noticeable on headsets that use pancake lenses with large sweetspots such as the Quest 3 or Pico 4, on such headsets it is recommended to use a very large center ring.  
