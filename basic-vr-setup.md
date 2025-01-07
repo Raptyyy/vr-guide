@@ -1,4 +1,4 @@
-### Basic VR setup
+## Basic VR setup
 
 ?> Click on your brand of headset to expand the instructions, you only need to use one of the provided methods.
 
@@ -26,7 +26,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 3. Install and set up SteamVR from Steam  
 4. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and set "Rendering Mode" to "OpenVR"
 
-#### Oculus / Meta additional notes and troubleshooting  
+### Oculus / Meta additional notes and troubleshooting  
 
 - Game lagging when using the headset wirelessly: Your router might not be able to handle the high amount of bandwidth required for a smooth experience, this will generally show as high network latency. Try to lower the bitrate in the [Oculus Debug Tool](https://smartglasseshub.com/oculus-debug-tool/) or set it to 0 for auto bitrate.  
 - USB-C, Make sure your headset runs USB 3 and not USB 2, if it keeps connecting via USB 2 even with a new cable and using a USB 3 port, reset your headset to factory defaults which will fix the issue.
