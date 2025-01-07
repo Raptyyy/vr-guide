@@ -1,4 +1,4 @@
-## Basic VR setup
+### Basic VR setup
 
 ?> Click on your brand of headset to expand the instructions, you only need to use one of the provided methods.
 
