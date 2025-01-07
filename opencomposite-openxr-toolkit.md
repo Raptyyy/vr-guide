@@ -3,10 +3,10 @@ Allows you to play SteamVR games without actually needing SteamVR, it is highly 
 On non native SteamVR headsets (Quest, Pimax, WMR) SteamVR simply acts as a middle layer which increases resource usage while bringing no real benefit to your VR experience.  
 OpenComposite can also be used with Virtual Desktop when using it with VDXR, [more info here](https://github.com/mbucchia/VirtualDesktop-OpenXR/wiki)  
 
-> Using OpenComposite with native SteamVR headsets (Vide, Index, Beyond) wont allow you to bypass SteamVR as it is required no matter what. However it would give you access to the OpenXR Toolkit if needed.  
+?> Using OpenComposite with native SteamVR headsets (Vide, Index, Beyond) wont allow you to bypass SteamVR as it is required no matter what. However it would give you access to the OpenXR Toolkit if needed.  
 
 
-> Pico standalone headsets dont have their own OpenXR runtime, so to bypass SteamVR you would need to use Virtual Desktop with VDXR and OpenComposite.
+?> Pico standalone headsets dont have their own OpenXR runtime, so to bypass SteamVR you would need to use Virtual Desktop with VDXR and OpenComposite.
 
 ### To install OpenComposite:
 1. Download the OpenComposite dll from one of the links  
@@ -18,7 +18,7 @@ OpenComposite can also be used with Virtual Desktop when using it with VDXR, [mo
 5. You also need to make sure your headset is using its native OpenXR Runtime (or VDXR for Virtual Desktop) and not the SteamVR one  
 
 
-> If you encounter any issues using OpenComposite, I have the [original dll file uploaded here](https://github.com/Raptyyy/rapty_ac_vr_guide/raw/refs/heads/main/resources/openvr_api.dll.og), rename it to "openvr_api.dll", put it in the same location as the opencomposite dll and overwrite, this will remove opencomposite.  
+?> **IMPORTANT** If you encounter any issues using OpenComposite, I have the [original dll file uploaded here](https://github.com/Raptyyy/rapty_ac_vr_guide/raw/refs/heads/main/resources/openvr_api.dll.og), rename it to "openvr_api.dll", put it in the same location as the opencomposite dll and overwrite, this will remove opencomposite.  
 
 # 7.2 OpenXR Toolkit
 OpenComposite also lets you use the OpenXR Toolkit which brings [additional functionality and tweaks](https://mbucchia.github.io/OpenXR-Toolkit/features.html).  
