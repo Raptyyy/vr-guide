@@ -1,4 +1,4 @@
-# 2. Setting up Custom Shaders Patch (CSP)
+# 2.1 Setting up Custom Shaders Patch (CSP)
 1. In Content Manager go to Settings > Custom Shader Patch  
   1.1 If you are prompted to install Custom Shaders Patch, press install  
 2. Go to Settings > Custom Shader Patch > About & Updates and verify that you are on the latest version which should be at the top of the list on the right side.  
@@ -6,7 +6,7 @@
 
 > If you are using a preview version of CSP from Patreon then install it manually or through the quick install link in the Patreon post  
 
-# 2.1 Setting up Pure
+# 2.2 Setting up Pure
 Pure is recommended for VR as it delivers a more realistic and consistent image, also has a lot of adjustability and various post processing filters to change the look of the game.  
 1. Make sure you are on the latest version of CSP
 2. Go to Peter Boese Patreon page and download Pure from there, it costs $1 - [Pure Patreon](https://www.patreon.com/c/peterboese/posts)
@@ -15,7 +15,7 @@ Pure is recommended for VR as it delivers a more realistic and consistent image,
 
 > Incorrect installation of Pure can cause major performance issues !
 
-# 2.1.1 Pure pp filters 
+# 2.2.1 Pure pp filters 
 Pure, PureVR - these come with Pure, PureVR would be my recommendation out of those two  
 [Natural Mod PP Filter](https://www.overtake.gg/downloads/natural-mod-pp-filter.4551/) Natural looking filter with good performance  
 [Improved Visuals PureCS Filter](https://www.overtake.gg/downloads/improved-visuals-pure-cs-filter-screen-and-vr-ppfilter.54256/) VR focused pp filter with great adjustability  
