@@ -1,3 +1,5 @@
+# Custom Shaders Patch (CSP) and Pure  
+
 # 2.1 Setting up Custom Shaders Patch (CSP)
 1. In Content Manager go to <ins>Settings > Custom Shader Patch</ins>  
   1.1 If you are prompted to install Custom Shaders Patch, press install  
