@@ -1,6 +1,6 @@
 ## Basic VR setup
 
-> Click on your brand of headset to expand the instructions, you only need to use one of the provided methods.
+?> Click on your brand of headset to expand the instructions, you only need to use one of the provided methods.
 
 <details>
   <summary style="cursor: pointer"><b>Oculus / Meta</b></summary>
@@ -90,4 +90,4 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 4. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"
 </details>
 
-> Once you have the correct settings applied for your headset, test it out in singleplayer first before joining a server !
+?> Once you have the correct settings applied for your headset, test it out in singleplayer first before joining a server !
