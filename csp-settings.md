@@ -74,7 +74,7 @@ Make sure the extension is enabled (Active)
 **Single YEBIS pass** Have it `enabled` for best performance if needed. Instead of running post-processing individually for each eye, runs it once for both eyes. Can potentially affect glare effects in an undesirable way.  
 
 ## Nvidia VRS
-also known as Foveated rendering ([What is Foveated Rendering](#6-what-is-foveated-rendering)), only works for Nvidia GPUs.  
+also known as Foveated rendering ([What is Foveated Rendering](/foveated-rendering)), only works for Nvidia GPUs.  
 If you want to use Nvidia VRS (Requires Single Pass Stereo to be enabled):  
 - **Nvidia VRS** `enabled`
 - **VRS preset** `Custom`
