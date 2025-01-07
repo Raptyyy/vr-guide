@@ -1,3 +1,5 @@
+## OpenComposite and OpenXR Toolkit
+
 # 7.1 OpenComposite
 Allows you to play SteamVR games without actually needing SteamVR, it is highly recommended for users wanting more performance.  
 On non native SteamVR headsets (Quest, Pimax, WMR) SteamVR simply acts as a middle layer which increases resource usage while bringing no real benefit to your VR experience.  
