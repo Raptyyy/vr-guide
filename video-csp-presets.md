@@ -1,7 +1,7 @@
 ## 3. Video and CSP Presets
 ?> **NOTICE** Save your current settings as presets in Content Manager for Video and Custom Shaders Patch !
 
-# 3.1 Video Presets for VR
+# 3.1 Video Presets
 These are some video presets I made if you don't want to read through the settings below, try each one out and see what works best. Also adjust to your needs.  
 Make sure to double check the <ins>Rendering Mode</ins> so that its set correctly for your headset !  
 
