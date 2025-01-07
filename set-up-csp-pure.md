@@ -1,7 +1,7 @@
 # 2.1 Setting up Custom Shaders Patch (CSP)
-1. In Content Manager go to Settings > Custom Shader Patch  
+1. In Content Manager go to <ins>Settings > Custom Shader Patch</ins>  
   1.1 If you are prompted to install Custom Shaders Patch, press install  
-2. Go to Settings > Custom Shader Patch > About & Updates and verify that you are on the latest version which should be at the top of the list on the right side.  
+2. Go to <ins>Settings > Custom Shader Patch > About & Updates</ins> and verify that you are on the latest version which should be at the top of the list on the right side.  
   2.1. I don't recommend using the "recommended" version (0.1.79) as it is quite old by now and wont work in some servers
 
 ?> If you are using a preview version of CSP from Patreon then install it manually or through the quick install link in the Patreon post  
@@ -11,7 +11,7 @@ Pure is recommended for VR as it delivers a more realistic and consistent image,
 1. Make sure you are on the latest version of CSP
 2. Go to Peter Boese Patreon page and download Pure from there, it costs $1 - [Pure Patreon](https://www.patreon.com/c/peterboese/posts)
 3. There is an installation guide in the Pure post, follow it thoroughly. [Link to the guide here too](https://youtu.be/456BO7vKui0?si=BQ0YIq6q3f7BuZyc)
-4. Make sure that exposure is set to 100% in Settings > Assetto Corsa > Miscellaneous > Exposure
+4. Make sure that exposure is set to 100% in <ins>Settings > Assetto Corsa > Miscellaneous</ins>
 
 !> **IMPORTANT** Incorrect installation of Pure can cause major performance issues !
 
