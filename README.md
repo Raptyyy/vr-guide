@@ -14,3 +14,6 @@ If you have anything useful to add to the guide or see a mistake, feel free to m
 - Latest version of Content Manager  
 - Latest version of Custom Shaders Patch unless said otherwise.  
 - Latest version of Pure (Delivers the best image in VR)  
+
+
+###### Written by Rapty
