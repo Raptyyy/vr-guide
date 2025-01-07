@@ -1,5 +1,4 @@
-## 7. OpenComposite and OpenXR Toolkit
-### 7.1 OpenComposite
+## 7.1 OpenComposite
 Allows you to play SteamVR games without actually needing SteamVR, it is highly recommended for users wanting more performance.  
 On non native SteamVR headsets (Quest, Pimax, WMR) SteamVR simply acts as a middle layer which increases resource usage while bringing no real benefit to your VR experience.  
 OpenComposite can also be used with Virtual Desktop when using it with VDXR, [more info here](https://github.com/mbucchia/VirtualDesktop-OpenXR/wiki)  
@@ -21,7 +20,7 @@ OpenComposite can also be used with Virtual Desktop when using it with VDXR, [mo
 
 > If you encounter any issues using OpenComposite, I have the [original dll file uploaded here](https://github.com/Raptyyy/rapty_ac_vr_guide/raw/refs/heads/main/resources/openvr_api.dll.og), rename it to "openvr_api.dll", put it in the same location as the opencomposite dll and overwrite, this will remove opencomposite.  
 
-### 7.2 OpenXR Toolkit
+## 7.2 OpenXR Toolkit
 OpenComposite also lets you use the OpenXR Toolkit which brings [additional functionality and tweaks](https://mbucchia.github.io/OpenXR-Toolkit/features.html).  
 The toolkit allows you to use things like Upscaling (NIS,FSR,CAS), Foveated rendering and more.  
 The toolkit [can be downloaded here](https://mbucchia.github.io/OpenXR-Toolkit/#downloads)  
