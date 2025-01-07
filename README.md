@@ -7,8 +7,7 @@ If you have anything useful to add to the guide or see a mistake, feel free to m
 
 ?> Most people should only have to read the first 6 chapters (Up to video settings), beyond that is more in depth coverage of various settings.
 
-?> For further help or if you want to report a game issue, join the Custom Shaders Patch discord and use the `virtual-reality-talk` channel  
-> [Custom Shaders Patch Discord](https://discord.gg/zN4XtmZ4Jf)
+?> For further help or if you want to report a game issue, join the Custom Shaders Patch discord and use the `virtual-reality-talk` channel, [Custom Shaders Patch Discord](https://discord.gg/zN4XtmZ4Jf).
 
 ## Prerequisites
 - Non-pirated copy of Assetto Corsa (Pirated copies do not get any support or help in the CSP discord)
