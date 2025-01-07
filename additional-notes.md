@@ -23,6 +23,6 @@ Requires MSAA to bet set to atleast 2x in <ins>Content Manager > Settings > MSAA
 </details>
 
 
-> On some systems using HAGS (Hardware accelerated GPU Scheduling) can cause performance issues, you can change it in Windows Settings > System > Display > Graphics settings or just search for "GPU" in the start search.  
+?> On some systems using HAGS (Hardware accelerated GPU Scheduling) can cause performance issues, you can change it in Windows Settings > System > Display > Graphics settings or just search for "GPU" in the start search.  
 
-> Reshade is available for VR too but it can also significantly impact performance so generally would not recommend using it.  
+Reshade is available for VR too but it can also significantly impact performance so generally would not recommend using it.  
