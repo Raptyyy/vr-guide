@@ -7,7 +7,7 @@
 
 ### A. Native Oculus implementation (easiest method):  
 1. First make sure that you have successfully set up Quest link or Air link and that the headset is connected to your PC - [Tutorial how to do so](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/)  
-    1.1. If youre using an Oculus Rift (S) then you simply need to have the headset connected and showing in the oculus app.  
+   1.1. If youre using an Oculus Rift (S) then you simply need to have the headset connected and showing in the oculus app.  
 2. In the Oculus App, <ins>Settings > General</ins> enable "Unknown sources" and next to the "OpenXR Runtime" press "Set Oculus as active" (If its greyed out then you don't need to press it)  
 3. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and set "Rendering Mode" to "Oculus Rift", this does not require SteamVR.  
 
@@ -21,8 +21,8 @@
 Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 
 ### C. Using SteamVR (Generally not recommended):
-1. First make sure that you have successfully set up Quest link or Air link and that the headset is connected to your PC - [Tutorial how to do so](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/)
-    1.1. If youre using an Oculus Rift (S) then you simply need to have the headset connected and showing in the oculus app.  
+1. First make sure that you have successfully set up Quest link or Air link and that the headset is connected to your PC - [Tutorial how to do so](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/)  
+   1.1. If youre using an Oculus Rift (S) then you simply need to have the headset connected and showing in the oculus app.  
 3. Install and set up SteamVR from Steam  
 4. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and set "Rendering Mode" to "OpenVR"
 
@@ -56,7 +56,7 @@ Using this method you can also look into the [OpenXR Toolkit](#openxr-toolkit)
 1. Make sure your headset is connected to your PC  
 2. Install and set up Windows Mixed Reality from the Microsoft Store
 3. Install and set up OpenXR Tools for Windows Mixed Reality from the Microsoft Store  
-  3.1. If you see a button that says "Set as active runtime" - press it.  
+   3.1. If you see a button that says "Set as active runtime" - press it.  
 5. Set up OpenComposite, [instructions here](#to-install-opencomposite)  
 6. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 
