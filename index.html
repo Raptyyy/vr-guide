@@ -14,8 +14,6 @@
 
 <!-- Theme: Simple Dark -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-<!-- For Discord Invite-->
-<link href="//dl.dropbox.com/s/mhaohazx78txkrs/discordwidget.css" rel="stylesheet">
 
 <!-- Custom theme styles -->
 <style>
@@ -35,7 +33,59 @@
     --mono-saturation: 5%;
     summary{
       cursor:pointer
-    }
+    };
+    	.discordInvite{
+		display:flex;
+		flex-direction: column;
+		background-color: #333;
+		padding: 20px;
+		border-radius: 10px;
+		.rowOne{
+			display:flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content:center;
+			img{
+				border-radius: 100%;
+				width: 78px;
+				height: 78px;
+				margin-right: 20px;
+			}
+			.serverName{
+				color: white;
+				font-size: 1.15em;
+				font-weight: bold;
+			}
+		};
+		.rowTwo{
+			display:flex;
+			justify-content:center;
+			margin-top:10px;
+			background: #7289DA;
+			border-radius: 10px;
+			a{
+				width: calc(100% - 40px);
+				box-sizing: border-box;
+				border: none;
+				color: #fff;
+				text-align: center;
+				padding: 15px 0;
+				border-radius: 3px;
+				cursor: pointer;
+				opacity: 1;
+				transition: 0.2s ease;
+				display:flex;
+				align-items: center;
+				justify-content:center;
+				font-weight: bold;
+			};
+			img{
+				width: 32px;
+				height: 32px;
+				margin-right: 10px;
+			}
+		}
+	}
 }
 </style>
 
