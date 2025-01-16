@@ -5,7 +5,7 @@ It also covers usage of OpenComposite and the OpenXR Toolkit.
 This guide is written with Content Manager and Custom Shaders Patch in mind, not intended to work with vanilla Assetto Corsa.  
 If you have anything useful to add to the guide or see a mistake, feel free to make an [issue here](https://github.com/Raptyyy/vr-guide/issues) and I will correct it.  
 
-?> Looking for contributers who are well experienced with Pico, Pimax headsets and Virtual Desktop. Contact me on discord @ itsrapty.  
+?> Most people should only have to read the first 4 chapters (Up to video settings), beyond that is more in depth coverage of various settings.
 
 ?> For further help or if you want to report a game issue, join the Custom Shaders Patch discord and use the `virtual-reality-talk` channel.
 
@@ -28,5 +28,7 @@ If you have anything useful to add to the guide or see a mistake, feel free to m
 - Latest version of Custom Shaders Patch unless said otherwise.  
 - Latest version of Pure (Delivers the best image in VR)  
 
+
+?> Looking for contributers who are well experienced with Pico, Pimax headsets and Virtual Desktop. Contact me on discord @ itsrapty.
 
 ###### Written by Rapty
