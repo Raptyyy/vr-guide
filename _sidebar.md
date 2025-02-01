@@ -8,3 +8,4 @@
 - [7. CSP Settings](csp-settings)
 - [8. OpenComposite and OpenXR Toolkit](opencomposite-openxr-toolkit)
 - [9. Additional Notes](additional-notes)
+- [10. Advanced Tweaks](advanced-tweaks)

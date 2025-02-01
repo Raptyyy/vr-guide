@@ -13,7 +13,7 @@ OpenComposite can also be used with Virtual Desktop when using it with VDXR, [mo
 ### To install OpenComposite:
 1. Download the OpenComposite dll from one of the links  
    A. From [this repository](https://github.com/Raptyyy/rapty_ac_vr_guide/raw/refs/heads/main/resources/openvr_api.dll)  
-   B. From the [OpenComposite mirror](https://opencomposite.znix.xyz/builds/) (Select the first result and download the Platform: x64	x64/openvr_api.dll file)  
+   B. From the [OpenComposite mirror](https://znix.xyz/OpenComposite/download.php?arch=x64&branch=openxr)  
 2. Make sure the file is called "openvr_api.dll" (rename it if needed)
 3. Place the file to <ins>"steamapps\common\assettocorsa\system\x64"</ins>, overwrite files if prompted to.
 4. In <ins>Content Manager > Settings > Video</ins> set "Rendering Mode" to "OpenVR"
