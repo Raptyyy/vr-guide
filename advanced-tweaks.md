@@ -21,8 +21,6 @@ Using [Process Lasso](https://bitsum.com/) you can set the CPU affinity to gain 
 ?> If you wish to ondo this, in step 3 simply select None instead and then disable Process Lasso at startup.
 
 ### Nvidia ReBar
-
-#### Nvidia ReBar
 [You can read about Nvidia ReBar here](https://www.rockpapershotgun.com/what-is-resizable-bar-and-should-you-use-it)  
 Make sure Resizable Bar is enabled and supported on your system, its explained in the link above.  
 
