@@ -1,5 +1,5 @@
 ## Advanced tweaks
-### These tweaks are meant to be used only if you understand what they do and how to revert them if needed, not recommended for most people.
+!> **WARNING** These tweaks are meant to be used only if you understand what they do and how to revert them if needed, not recommended for most people.
 
 ### CPU Affinity
 Using [Process Lasso](https://bitsum.com/) you can set the CPU affinity to gain some extra performance, especially in the 0.1% / 1% low fps.  
