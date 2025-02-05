@@ -1,4 +1,4 @@
-## 4. What is Foveated Rendering
+## 5. What is Foveated Rendering
 
 ?> Note that since Assetto Corsa is a DirectX 11 game, Foveated Rendering works ONLY on Nvidia 16xx, 20xx, 30xx and 40xx series GPUs or newer. 
 

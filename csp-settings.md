@@ -1,4 +1,4 @@
-## 6. Custom Shaders Patch settings
+## 7. Custom Shaders Patch settings
 I will not cover every setting in CSP (that would be a lot to cover), but only the ones that matter for VR performance.  
 
 # General Patch Settings

@@ -1,4 +1,4 @@
-## 5. Video Settings
+## 6. Video Settings
 This covers all the settings in Content Manager > Settings > Video  
 
 ?> Note that in Content Manager > Video most settings have an ![image](https://github.com/user-attachments/assets/9f386396-4427-4b7a-b75b-127258967f94) icon next to them that will show what each setting does and the performance impact.  
