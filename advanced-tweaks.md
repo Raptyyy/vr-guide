@@ -1,5 +1,5 @@
 ## Advanced tweaks
-### These tweaks are meant to be used only if you understand what they do and how to revert them if needed, not recommended for most people.
+!> **WARNING** These tweaks are meant to be used only if you understand what they do and how to revert them if needed, not recommended for most people.
 
 ### CPU Affinity
 Using [Process Lasso](https://bitsum.com/) you can set the CPU affinity to gain some extra performance, especially in the 0.1% / 1% low fps.  
@@ -21,8 +21,6 @@ Using [Process Lasso](https://bitsum.com/) you can set the CPU affinity to gain 
 ?> If you wish to ondo this, in step 3 simply select None instead and then disable Process Lasso at startup.
 
 ### Nvidia ReBar
-
-#### Nvidia ReBar
 [You can read about Nvidia ReBar here](https://www.rockpapershotgun.com/what-is-resizable-bar-and-should-you-use-it)  
 Make sure Resizable Bar is enabled and supported on your system, its explained in the link above.  
 
