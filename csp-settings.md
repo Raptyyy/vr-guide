@@ -10,6 +10,7 @@ CPU optimizations:
 - **Flatten nodes** keep it `enabled`  
 - **Chunks optimization** helps with CPU load. Set it to `Advanced` unless you have issues (like the screen going black), then keep it at `Basic`.  
 - **Limit audio for other cars** set it to `Always` if you have a slower PC.
+- **Apply Hyperthreading fix** highly recommended to have it `enabled`, benefits any CPU that uses Hyperthreading or SMT. Might not work well on 4 or 2 core CPUs. (CSP version 0.2.7 or 0.2.8 preview required) 
 
 GPU optimizations: 
 - **Optimize meshes some more** helps with GPU load, have it `enabled`  
@@ -24,7 +25,7 @@ Extra FX doesnt work in VR so this will have no effect, keep it `disabled` if yo
 **Font Scale** Set this to `125%` or higher if you struggle reading the names.  
 
 # Graphics Adjustments
-**AMD FidelityFX SuperResolution** also known as "FSR" is an upscaler that can help with performance by rendering the game at a lower resolution and then upscaling the image. Should only be needed for lower end PCs. Can also be used through the OpenXR Toolkit or VRPerfkit instead.    
+**AMD FidelityFX SuperResolution** also known as "FSR" is an upscaler that can help with performance by rendering the game at a lower resolution and then upscaling the image. Should only be needed for lower end PCs. Can also be used through the OpenXR Toolkit.
 
 LOD settings:
 - **Force low-res drivers for other cars in first person view** have it `enabled` for performance
