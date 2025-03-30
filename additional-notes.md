@@ -1,6 +1,12 @@
 ## 9. Additional Notes
 
-When it comes to VR performance, the most important thing is having a consistent framerate. You want to utilize your GPU as much as possible by increasing the headsets resolution or graphical settings, but also leaving enough headroom to avoid any fluctuation in framerate. You can use things like Render Stats app in-game, SteamVR performance graph, OpenXR advanced overlay or programs like GPU-Z to monitor GPU and CPU usage and adjust settings as needed.  
+When it comes to VR performance, the most important thing is having a consistent framerate. You want to utilize your GPU as much as possible by increasing the headsets resolution or graphical settings, but also leaving enough headroom to avoid any fluctuation in framerate. You can use things like Render Stats app in-game, SteamVR performance graph, OpenXR Toolkit advanced overlay or programs like GPU-Z to monitor GPU and CPU usage and adjust settings as needed.  
+
+If your headset has built in `IPD (inter-pupillary distance)` adjustment it is important to set it correctly to have the best image quality and correct world scale, there are various ways to figure out what your IPD is, read more [here](https://www.vive.com/us/support/vive-xr/category_howto/how-can-i-find-my-ipd.html). Most people should be in the 60mm to 70mm range.  
+
+If you are far or near sighted and wear glasses or contact lenses, the same thing will apply to you in VR so you will also need to wear glasses or contact lenses while you're using VR.  
+
+Field of view is an important aspect in VR as it can greatly impact the immersiveness of your experience. Basically the closer your eyes are to the lenses the higher your Field of View will be (up to the limitations of the actual headset). Users wearing glasses will usually have to sacrifice some Field of View for comfort.  
 
 There is another guide written by CSOCSO which has some more in depth details for Virtual Desktop and Pimax users. You can [find it here](https://docs.google.com/document/d/1q-taJt5q9oKWPuCB63rbAC6ZzlZMxqjworgpc10ETDE/edit?tab=t.0).  
 
@@ -23,6 +29,6 @@ Requires MSAA to bet set to atleast 2x in <ins>Content Manager > Settings > MSAA
 </details>
 
 
-?> On some systems using HAGS (Hardware accelerated GPU Scheduling) can cause performance issues, you can change it in Windows Settings > System > Display > Graphics settings or just search for "GPU" in the start search.  
+?> On some systems using HAGS (Hardware accelerated GPU Scheduling) can potentially cause performance issues, you can change it in Windows Settings > System > Display > Graphics settings or just search for "GPU" in the start search.  
 
 Reshade is available for VR too but it can also significantly impact performance so generally would not recommend using it.  

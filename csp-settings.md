@@ -10,7 +10,7 @@ CPU optimizations:
 - **Flatten nodes** keep it `enabled`  
 - **Chunks optimization** helps with CPU load. Set it to `Advanced` unless you have issues (like the screen going black), then keep it at `Basic`.  
 - **Limit audio for other cars** set it to `Always` if you have a slower PC.
-- **Apply Hyperthreading fix** highly recommended to have it `enabled`, benefits any CPU that uses Hyperthreading or SMT. Might not work well on 4 or 2 core CPUs. (CSP version 0.2.7 or 0.2.8 preview required) 
+- **Apply Hyperthreading fix** highly recommended to have it `enabled`, benefits any CPU that uses Hyperthreading or SMT. Might not work well on 4 or 2 core CPUs. (Requires CSP version 0.2.7 / 0.2.8 preview or newer) 
 
 GPU optimizations: 
 - **Optimize meshes some more** helps with GPU load, have it `enabled`  
@@ -63,7 +63,7 @@ Not related to performance but there are good NeckFX scripts for VR to enhance i
 # Weather FX
 **Weather style** this should be set to either `Pure Gamma` or `Pure LCS`. `Pure Gamma` is the recommended option as of now and has better performance, `Pure LCS` is able to produce a better looking image but could cause some issues too.  
 
-**Replace YEBIS with lightweight alternative** is a more basic post-processing implementation which uses less CPU and GPU resources, for performance I would recommend to `enable` it. Does not work with some pp filters like C13.  
+**Replace YEBIS with lightweight alternative** is a more basic post-processing implementation which uses less CPU and GPU resources, for performance I would recommend to `enable` it. Does not work with some pp filters like C13, can also cause excessive glare.  
 
 **Automatically guess white reference point** This can make the UI very bright when using Pure, `disable` it.  
 
@@ -84,6 +84,6 @@ If you want to use Nvidia VRS (Requires Single Pass Stereo to be enabled):
 
 You can also test using the VRS presets if those work better for you.  
 
-**Corners masking optimization** Recommended to keep this one `enabled`. Also known as [Hidden Area Mesh](https://forum.il2sturmovik.com/topic/81723-enable-the-use-of-ham-hidden-area-mesh-in-openvr/), it allows your GPU to not waste time rendering parts of the image that you wouldnt be able to see because of how the lenses work. Disable this if the black shape in the VR mirror (game window) is not wanted.    
+**Corners masking optimization** Recommended to keep this one `enabled`. Also known as Hidden Area Mesh, it allows your GPU to not waste time rendering parts of the image that you wouldnt be able to see because of how the lenses work. Disable this if the black shape in the VR mirror (game window) is undesired.    
 
 **Custom VR HUD rendering** Recommended to keep this `enabled` as it makes the HUD work better in VR  
