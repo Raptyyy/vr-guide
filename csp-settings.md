@@ -84,6 +84,8 @@ If you want to use Nvidia VRS (Requires Single Pass Stereo to be enabled):
 
 You can also test using the VRS presets if those work better for you.  
 
+?> You can also use the VR Tweaks app that lets you adjust all these settings in-game which you can find here: [VR Tweaks](https://www.overtake.gg/downloads/vr-tweaks.76283/)
+
 **Corners masking optimization** Recommended to keep this one `enabled`. Also known as Hidden Area Mesh, it allows your GPU to not waste time rendering parts of the image that you wouldnt be able to see because of how the lenses work. Disable this if the black shape in the VR mirror (game window) is undesired.    
 
 **Custom VR HUD rendering** Recommended to keep this `enabled` as it makes the HUD work better in VR  
