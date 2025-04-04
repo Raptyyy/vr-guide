@@ -1,11 +1,11 @@
 # VR guide for Assetto Corsa and CSP
 
-The purpose of this guide is to help with basic VR setup, installing Custom Shaders Patch, Pure and adjusting your settings for the best experience.  
+This guide covers basic VR setup, installing Custom Shaders Patch, Pure and adjusting your settings for the best experience.  
 It also covers usage of OpenComposite and the OpenXR Toolkit.  
 This guide is written with Content Manager and Custom Shaders Patch in mind, not intended to work with vanilla Assetto Corsa.  
-If you have anything useful to add to the guide or see a mistake, feel free to make an [issue here](https://github.com/Raptyyy/vr-guide/issues) and I will correct it.  
 
-?> Most people should only have to read the first 5 chapters (Up to video settings), beyond that is more in depth coverage of various settings.
+
+?> Most should only have to read the first 5 chapters (Up to video settings), beyond that is more in depth coverage of various settings, although I do recommend checking Additional Notes too.
 
 ?> For further help or if you want to report a game issue, join the Custom Shaders Patch discord and use the `virtual-reality-talk` channel.
 
@@ -21,6 +21,8 @@ If you have anything useful to add to the guide or see a mistake, feel free to m
 		</a>
 	</div>
 </div>
+
+If you have anything useful to add to the guide or see a mistake, feel free to make an [issue here](https://github.com/Raptyyy/vr-guide/issues) and I will correct it.  
 
 ## Prerequisites
 - Non-pirated copy of Assetto Corsa (Pirated copies do not get any support or help in the CSP discord)

@@ -1,4 +1,4 @@
-## Resolution and Reprojection
+# Resolution and Reprojection
 
 ### Resolution
 Unlike monitors, VR headsets dont have a "native" resolution because of [barrel distortion](https://github.com/user-attachments/assets/cc384ebe-96b5-4272-a26b-cf7a3eb14afe) which reduces detail in the image.  

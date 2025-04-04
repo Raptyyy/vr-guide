@@ -1,4 +1,4 @@
-## 9. Additional Notes
+# Additional Notes
 
 ?> There is another guide written by CSOCSO which has some more in depth details for Virtual Desktop and Pimax users. You can [find it here](https://docs.google.com/document/d/1q-taJt5q9oKWPuCB63rbAC6ZzlZMxqjworgpc10ETDE/edit?tab=t.0).  
 

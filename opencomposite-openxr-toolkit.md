@@ -1,6 +1,6 @@
-## 8. OpenComposite and OpenXR Toolkit
+# OpenComposite and OpenXR Toolkit
 
-# 8.1 OpenComposite
+## 8.1 OpenComposite
 Translates OpenVR games to OpenXR which means SteamVR isnt needed to run the game (Except for SteamVR headsets), it is highly recommended for users wanting more performance.  
 On some headsets like Rift, Quest, Pimax or WMR - SteamVR simply acts as a middle layer which increases resource usage while bringing no real benefit to your VR experience.  
 OpenComposite can also be used with Virtual Desktop when using it with VDXR, [more info here](https://github.com/mbucchia/VirtualDesktop-OpenXR/wiki)  
@@ -22,7 +22,7 @@ OpenComposite can also be used with Virtual Desktop when using it with VDXR, [mo
 
 ?> **IMPORTANT** If you encounter any issues using OpenComposite, I have the [original dll file uploaded here](https://github.com/Raptyyy/rapty_ac_vr_guide/raw/refs/heads/main/resources/openvr_api.dll.og), rename it to "openvr_api.dll", put it in the same location as the opencomposite dll and overwrite, this will remove opencomposite.  
 
-# 8.2 OpenXR Toolkit
+## 8.2 OpenXR Toolkit
 OpenComposite also lets you use the OpenXR Toolkit which brings additional features like upscaling, foveated rendering, world scale or field of view adjustability and more. [Read more about it here](https://mbucchia.github.io/OpenXR-Toolkit/features.html)  
 Download the OpenXR Toolkit here [download link](https://mbucchia.github.io/OpenXR-Toolkit/#downloads)  
 By default you use Ctrl + F1 to F4 to navigate the on screen menu, can be changed in the OpenXR Toolkit Companion App. [Explained further here](https://mbucchia.github.io/OpenXR-Toolkit/#basic-usage)

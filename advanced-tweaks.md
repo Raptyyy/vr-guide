@@ -1,4 +1,4 @@
-## Advanced tweaks
+# Advanced tweaks
 !> **WARNING** These tweaks are meant to be used only if you understand what they do and how to revert them if needed, not recommended for most people.
 
 ### CPU Affinity
