@@ -17,7 +17,7 @@ This covers all the settings in Content Manager > Settings > Video
 # Quality
 **MSAA** (Multisample anti-aliasing) is an Anti-Aliasing technique which helps with jagged edges, pixelation or shimmering especially into the distance. Highly recommended to keep it enabled in VR, either `2x` or `4x`. `8x` will have a major impact on performance and is generally not worth using.  
 
-**Anisotropic Filtering** helps with texture clarity into the distance, it has a very low performance impact so it's recommended to just keep it at `16x`.  
+**Anisotropic Filtering** helps with texture clarity into the distance, it has a no performance impact so it's recommended to just keep it at `16x`.  
 
 **World details** will affect object count on tracks (if they support it), set it as needed. Can also be adjust in-game using the "View & Video Settings" app.  
 
@@ -28,7 +28,7 @@ This covers all the settings in Content Manager > Settings > Video
 # Reflections
 **Reflection Resolution** simply adjusts how sharp / clear the reflections will look, `512x512` is a good base value to start with, can increase if needed.  
 
-**Rendering frequency** adjusts how smoothly the reflections will reflect, Set it to either `one or two faces per frame`, any higher is not really needed as they get reprojected anyway. don't use Static either.  
+**Rendering frequency** adjusts how frequently the reflections will update. Set it to `two faces per frame`, any higher is not really needed as they get reprojected anyway. Don't use Static either as it will cause issues with Pure.  
 
 **Rendering distance** Adjusts the reflection rendering distance, does not have a noticeable performance impact so you can set it to `at least 1000m` or higher if needed.  
 
