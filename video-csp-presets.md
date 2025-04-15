@@ -16,7 +16,7 @@ These presets are simply to be used as a base for your own preference. Test the 
 
 ?> Foveated rendering / Nvidia VRS is NOT enabled in any of these, read the chapter about [Foveated Rendering here](foveated-rendering)  
 
-- High Performance - [Link here](https://acstuff.club/s/AG1c) (This preset has a lot of modules disabled for a little extra performance)  
-- Balanced - [Link here](https://acstuff.club/s/G0S6)  
-- High Quality - [Link here](https://acstuff.club/s/MNe7)  
+- High Performance - [Link here](https://acstuff.club/s/Ozx3) (This preset has a lot of modules disabled for a little extra performance)  
+- Balanced - [Link here](https://acstuff.club/s/PaP3)  
+- High Quality - [Link here](https://acstuff.club/s/J0Je)  
 #### Presets updated as of 2025-04-15 to fix an error shown when applying the presets
