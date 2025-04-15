@@ -9,12 +9,14 @@ Make sure to double check the <ins>Rendering Mode</ins> so that its set correctl
 - Balanced: [Link here](https://acstuff.club/s/oFw)
 - High Quality: [Link here](https://acstuff.club/s/hPvJ) (For best graphics find a good pp filter)
 
+?> You don't need to use frame limiters in VR since the framerate will be capped to the headsets refresh rate anyway. Using fps limiters can potentially cause performance issues.
+
 ## 4.2 CSP Setting Presets
 These presets are simply to be used as a base for your own preference. Test the presets out and adjust as needed.  
 
 ?> Foveated rendering / Nvidia VRS is NOT enabled in any of these, read the chapter about [Foveated Rendering here](foveated-rendering)  
 
-- High Performance - [Link here](https://acstuff.club/s/M8lX) (This preset has a lot of modules disabled for a little extra performance)  
-- Balanced - [Link here](https://acstuff.club/s/Gvh4)  
-- High Quality - [Link here](https://acstuff.club/s/i5dQ)  
-#### Presets updated as of 2025-04-04 to include the Hyperthreading fix
+- High Performance - [Link here](https://acstuff.club/s/AG1c) (This preset has a lot of modules disabled for a little extra performance)  
+- Balanced - [Link here](https://acstuff.club/s/G0S6)  
+- High Quality - [Link here](https://acstuff.club/s/MNe7)  
+#### Presets updated as of 2025-04-15 to fix an error shown when applying the presets
