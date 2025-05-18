@@ -24,3 +24,8 @@ Make sure Resizable Bar is enabled and supported on your system, its explained i
 4. Press Apply changes in the top right
 
 ?> If you wish to ondo this, set  rBAR - Feature to "Disabled" and press Apply changes
+
+Comparison of performance difference when using ReBar  
+Baseline is ReBar disabled (default)  
+0x0000000012C00000 is 300mb  
+<img src="https://github.com/user-attachments/assets/79d0b521-cb77-451e-9861-5703f431c0ba" width="800">  
