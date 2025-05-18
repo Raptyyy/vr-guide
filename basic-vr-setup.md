@@ -8,7 +8,7 @@
 
 <!-- tabs:start -->
 
-#### **Native Oculus (Recommended)**
+#### **Oculus (Easy setup)**
 This is the easiest and for most users the best method
 
 1. First make sure that you have successfully set up Quest link or Air link and that the headset is connected to your PC - [Tutorial how to do so](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/)  
@@ -18,8 +18,9 @@ This is the easiest and for most users the best method
 
 **You do not need SteamVR for this**
 
-#### **OpenComposite OpenXR**
-Should deliver a similar experience to Native Oculus but will let you use the OpenXR Toolkit  
+#### **OpenComposite (Best performance)**
+Should deliver a similar experience to native Oculus but will let you use the OpenXR Toolkit  
+Can deliver better performance  
 Intended more for advanced users
 
 1. First make sure that you have successfully set up Quest link or Air link and that the headset is connected to your PC - [Tutorial how to do so](https://www.meta.com/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/)  
