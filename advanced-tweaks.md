@@ -12,7 +12,12 @@
 
 This can also be done using [Process Governor](https://github.com/SystemXFiles/process-governor) if you wish not to use Process Lasso.
 
-?> If you wish to ondo this, in step 3 simply select None for the CPU affinity and then disable Process Lasso at startup.
+?> If you wish to ondo this, in step 3 simply select None for the CPU affinity and then disable Process Lasso at startup.  
+
+Example of the performance difference using various affinities (mainly note the 0.2% and 1% lows)  
+<img src="https://github.com/user-attachments/assets/49fe1d09-b348-4e65-9aae-973f3e7fb501" width="720">  
+
+
 
 ### Nvidia ReBar
 [You can read about Nvidia ReBar here](https://www.rockpapershotgun.com/what-is-resizable-bar-and-should-you-use-it)  
@@ -24,3 +29,6 @@ Make sure Resizable Bar is enabled and supported on your system, its explained i
 4. Press Apply changes in the top right
 
 ?> If you wish to ondo this, set  rBAR - Feature to "Disabled" and press Apply changes
+
+Comparison of performance difference when using ReBar, baseline is ReBar disabled (default), 0x0000000012C00000 is 300mb  
+<img src="https://github.com/user-attachments/assets/79d0b521-cb77-451e-9861-5703f431c0ba" width="720">  
