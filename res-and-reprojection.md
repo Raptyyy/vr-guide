@@ -1,9 +1,10 @@
 # Resolution and Reprojection
 
 ### Resolution
-Unlike monitors, VR headsets dont have a "native" resolution because of [barrel distortion](https://github.com/user-attachments/assets/cc384ebe-96b5-4272-a26b-cf7a3eb14afe) which reduces detail in the image.  
-It is important to set the resolution high enough to have a clear image, but also not too high to avoid performance issues.  
-Start with 100% or 1.0x resolution and adjust as needed based on Quality and Performance.  
+Unlike monitors, VR headsets dont have a "native" resolution because of [barrel distortion](https://github.com/user-attachments/assets/cc384ebe-96b5-4272-a26b-cf7a3eb14afe) which reduces detail in the center part of the image, to counteract that we need to supersample - use a higher resolution.    
+It is important to set the resolution as high as possible while also trying not to sacrifice performance.  
+Start with 100% or 1.0x resolution (can also be called render scale) and adjust as needed based on Quality and Performance.  
+On some headsets (like Pimax) 100% can already be very high resolution, you might have to lower it to get good performance.    
 
 - **Oculus / Meta** headsets you can adjust it in the Oculus app (Settings > Graphics Preference > Render Resolution) Or in the [Oculus Debug Tool](https://smartglasseshub.com/oculus-debug-tool/) with the Pixels Per Display Pixel Override setting.  
 - **Steam VR** headsets you can adjust it in SteamVR settings (Video > Resolution Per Eye).  
