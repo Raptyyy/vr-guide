@@ -2,7 +2,7 @@
 
 ### Resolution
 Unlike monitors, VR headsets dont have a "native" resolution because of [barrel distortion](https://github.com/user-attachments/assets/cc384ebe-96b5-4272-a26b-cf7a3eb14afe) which reduces detail in the center part of the image, to counteract that we need to supersample - use a higher resolution.    
-It is important to set the resolution as high as possible while also trying not to sacrifice performance.  
+It is important to set the resolution as high as possible while also trying to avoid sacrificing performance.  
 Start with 100% or 1.0x resolution (can also be called render scale) and adjust as needed based on Quality and Performance.  
 On some headsets (like Pimax) 100% can already be very high resolution, you might have to lower it to get good performance.    
 
@@ -11,7 +11,7 @@ On some headsets (like Pimax) 100% can already be very high resolution, you migh
 - **Windows Mixed Reality** headsets you can adjust it in OpenXR Tools for Windows Mixed Reality (Custom Render Scale).  
 - **Pimax** headsets you can adjust it in the Pimax Play software (Render Quality).  
 
-?> The Resolution in Content Manager <ins>Settings > Assetto Corsa > Video</ins> does NOT affect VR image quality.  
+?> The Resolution in Content Manager <ins>Settings > Assetto Corsa > Video</ins> does NOT affect VR resolution.  
 
 ### Reprojection
 Reprojection reduces system load by halving the amount of rendered frames and [extrapolating](https://cdn.mos.cms.futurecdn.net/wwXXdLEWrPADG7yLtC48cP-970-80.png) the rest to maintain a smooth experience, very similarly to frame generation.    

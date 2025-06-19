@@ -29,7 +29,7 @@ By default you use Ctrl + F1 to F4 to navigate the on screen menu, can be change
 
 
 ### Recommended settings for the Toolkit: 
-- Upscaling set to `FSR` if you need more performance or set to `CAS` to improve image quality by sharpening the image. For FSR the lower the scale the more performance you will gain. For CAS use 70% to 100% strength.
+- Upscaling set to `FSR` if you need more performance, the lower the scale the more performance you will gain while sacrificing image quality. Set to `CAS` to improve image quality by sharpening the image, use 70% to 100% strength.
 - Foveated rendering set to `Preset - Quality - Balanced`, this will be a good starting point, adjust as needed. `Custom` will allow you to tweak things further.  
 - Tweaking the `World Scale` in the Appearance tab could fix any issues regarding objects looking too big or too small.  
 - For users wearing glasses you might be able to lower the `Field of View (FOV)` which can increase the image quality without any performance loss.  

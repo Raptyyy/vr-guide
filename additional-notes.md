@@ -4,6 +4,9 @@
 
 ### Performance
 When it comes to VR performance, the most important thing is having a consistent framerate. You want to utilize your GPU as much as possible by increasing the headsets resolution or graphical settings, but also leaving enough headroom to avoid any fluctuation in framerate. You can use things like Render Stats app in-game, SteamVR performance graph, OpenXR Toolkit advanced overlay or programs like GPU-Z to monitor GPU and CPU usage and adjust settings as needed.  
+
+On some systems using HAGS (Hardware accelerated GPU Scheduling) can potentially cause performance issues (Especially on windows 10 or if you are using OBS), you can change it in Windows Settings > System > Display > Graphics settings or just search for "GPU" in the start search, requires a system restart to apply.  
+
 ### Headset adjustments
 If your headset has built in `IPD (inter-pupillary distance)` adjustment it is important to set it correctly to have the best image quality and correct world scale, there are various ways to figure out what your IPD is, read more [here](https://www.vive.com/us/support/vive-xr/category_howto/how-can-i-find-my-ipd.html). Most people should be in the 60mm to 70mm range.  
 
@@ -30,8 +33,6 @@ Requires MSAA to bet set to atleast 2x in <ins>Content Manager > Settings > MSAA
 </details>
 
 ### Miscellaneous tweaks
-?> On some systems using HAGS (Hardware accelerated GPU Scheduling) can potentially cause performance issues, you can change it in Windows Settings > System > Display > Graphics settings or just search for "GPU" in the start search.  
-
 Using overlays (like Discord, Steam, Nvidia overlays) can potentially affect VR performance in a negative way, it is recommended to disable them when using VR.
 
 Having hardware acceleration enabled in various programs (like Steam, Discord, Spotify) can potentially affect VR performance in a negative way and also use additional VRAM, it can be worthwhile to disable hardware acceleration for such programs.
