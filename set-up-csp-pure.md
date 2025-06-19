@@ -12,7 +12,7 @@
 Pure is recommended for VR as it delivers a more realistic and consistent image, also has a lot of adjustability and various post processing filters to change the look of the game.  
 1. Make sure you are on the latest version of CSP
 2. Go to Peter Boese Patreon page and download Pure from there, it costs $1 - [Pure Patreon](https://www.patreon.com/c/peterboese/posts)
-3. There is an installation guide in the Pure post, follow it thoroughly. [Link to the guide here too](https://youtu.be/456BO7vKui0?si=BQ0YIq6q3f7BuZyc)
+3. There is an installation guide in the Pure post, follow it thoroughly. [Link to the guide here too](https://youtu.be/KJE2xac5f8s?si=5SQax_1tjwbOteAm&t=240)
 4. Make sure that exposure is set to 100% in <ins>Settings > Assetto Corsa > Miscellaneous</ins>
 
 !> **IMPORTANT** Incorrect installation of Pure can cause major performance issues !
