@@ -22,8 +22,6 @@ This guide is written with Content Manager and Custom Shaders Patch in mind, not
 	</div>
 </div>
 
-If you have anything useful to add to the guide or see a mistake, feel free to make an [issue here](https://github.com/Raptyyy/vr-guide/issues) and I will correct it.  
-
 ## Prerequisites
 - Non-pirated copy of Assetto Corsa (Pirated copies do not get any support or help in the CSP discord)
 - Latest version of Content Manager  

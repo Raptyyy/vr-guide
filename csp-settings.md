@@ -6,13 +6,13 @@ I will not cover every setting in CSP (that would be a lot to cover), but only t
 
 **New KN5 loader** recommended to have it `enabled`, reduces RAM and VRAM usage.  
 
-CPU optimizations:
+### CPU optimizations:
 - **Flatten nodes** keep it `enabled`  
 - **Chunks optimization** helps with CPU load. Set it to `Advanced` unless you have issues (like the screen going black), then keep it at `Basic`.  
 - **Limit audio for other cars** set it to `Always` if you have a slower PC.
 - **Apply Hyperthreading fix** highly recommended to have it `enabled`, benefits any CPU that uses Hyperthreading or SMT. Might not work well on 4 or 2 core CPUs. (Requires CSP version 0.2.7 / 0.2.8 preview or newer) 
 
-GPU optimizations: 
+### GPU optimizations: 
 - **Optimize meshes some more** helps with GPU load, have it `enabled`  
 - "**Deduplicate meshes**" helps with VRAM, have it `enabled`  
 - "**Upgrade AC textures**" can improve loading times and reduce VRAM usage, recommended to have it `enabled`. Will make the game folder size bigger (shouldnt be more than 5GB for most users).  
@@ -28,7 +28,7 @@ Extra FX doesnt work in VR so this will have no effect, keep it `disabled` if yo
 # Graphics Adjustments
 **AMD FidelityFX SuperResolution** also known as "FSR" is an upscaler that can help with performance by rendering the game at a lower resolution and then upscaling the image. Should only be needed for lower end PCs. Can also be used through the OpenXR Toolkit.
 
-LOD settings:
+### LOD settings:
 - **Force low-res drivers for other cars in first person view** have it `enabled` for performance
 - **Multiplier for car LODs** this sets how far away the car LOD (level of detail) will change, lower multiplier will help with performance but can make cars look worse up close, for performance set it to `75%`.
 - **Multiplier for track LODs** same thing as car LODs but for the track, I would recommend not going below `80%` as it can cause issues.
@@ -69,13 +69,13 @@ Not related to performance but there are good NeckFX scripts for VR to enhance i
 **Automatically guess white reference point** This can make the UI very bright when using Pure, `disable` it.  
 
 # Mode Tweaks VR:
-Make sure the extension is enabled (Active)  
+**Make sure the extension is enabled (Active)**  
 
 **Single Pass Stereo** Highly recommended to have it `enabled`, especially on slower CPUs. It renders both eye images at the same time into one packed Render Texture, meaning that the whole Scene is only rendered once, and CPU processing time is significantly reduced. Can make some Pure shaders not work.  
 
 **Single YEBIS pass** Have it `enabled` for best performance if needed. Instead of running post-processing individually for each eye, runs it once for both eyes. Can potentially affect glare effects in an undesirable way.  
 
-## Nvidia VRS
+### Nvidia VRS
 also known as Foveated rendering ([What is Foveated Rendering](/foveated-rendering)), only works for Nvidia GPUs.  
 If you want to use Nvidia VRS (Requires Single Pass Stereo to be enabled):  
 - **Nvidia VRS** `enabled`

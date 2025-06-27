@@ -24,7 +24,7 @@ OpenComposite can also be used with Virtual Desktop when using it with VDXR, [mo
 
 ## 8.2 OpenXR Toolkit
 OpenComposite also lets you use the OpenXR Toolkit which brings additional features like upscaling, foveated rendering, world scale or field of view adjustability and more. [Read more about it here](https://mbucchia.github.io/OpenXR-Toolkit/features.html)  
-Download the OpenXR Toolkit here [download link](https://mbucchia.github.io/OpenXR-Toolkit/#downloads)  
+**Download the OpenXR Toolkit here** [download link](https://mbucchia.github.io/OpenXR-Toolkit/#downloads)  
 By default you use Ctrl + F1 to F4 to navigate the on screen menu, can be changed in the OpenXR Toolkit Companion App. [Explained further here](https://mbucchia.github.io/OpenXR-Toolkit/#basic-usage)
 
 
