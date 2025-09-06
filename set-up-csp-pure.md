@@ -4,7 +4,6 @@
 1. In Content Manager go to <ins>Settings > Custom Shader Patch</ins>  
    1.1 If you are prompted to install Custom Shaders Patch, press install  
 2. Go to <ins>Settings > Custom Shader Patch > About & Updates</ins> and verify that you are on the latest version which should be at the top of the list on the right side.  
-Don't use the "recommended" version (0.1.79) as it is quite old by now and wont work in some servers
 
 ?> If you are using a preview version of CSP from Patreon then install it manually or through the quick install link in the Patreon post  
 

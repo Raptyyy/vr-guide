@@ -7,7 +7,7 @@ Start with 100% or 1.0x resolution (can also be called render scale) and adjust 
 On some headsets (like Pimax) 100% can already be very high resolution, you might have to lower it to get good performance.    
 
 - **Oculus / Meta** headsets you can adjust it in the Oculus app (Settings > Graphics Preference > Render Resolution) Or in the [Oculus Debug Tool](https://smartglasseshub.com/oculus-debug-tool/) with the Pixels Per Display Pixel Override setting.  
-- **Steam VR** headsets you can adjust it in SteamVR settings (Video > Resolution Per Eye).  
+- **Steam VR** headsets you can adjust it in SteamVR settings > Video > Render resolution (Set to custom).  
 - **Windows Mixed Reality** headsets you can adjust it in OpenXR Tools for Windows Mixed Reality (Custom Render Scale).  
 - **Pimax** headsets you can adjust it in the Pimax Play software (Render Quality).  
 

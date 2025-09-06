@@ -21,13 +21,7 @@ This guide is written with Content Manager and Custom Shaders Patch in mind, not
 		</a>
 	</div>
 </div>
-
-## Prerequisites
-- Non-pirated copy of Assetto Corsa (Pirated copies do not get any support or help in the CSP discord)
-- Latest version of Content Manager  
-- Latest version of Custom Shaders Patch unless said otherwise.  
-- Latest version of Pure (Delivers the best image in VR)  
-
+Pirated copies of Assetto Corsa do not get any support or help in the CSP discord
 
 ?> Looking for contributers who are well experienced with Pico, Pimax headsets and Virtual Desktop. Contact me on discord @ itsrapty.
 

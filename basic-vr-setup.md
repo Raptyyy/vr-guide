@@ -82,7 +82,14 @@ Generally not recommended to use
 
 <!-- tabs:start -->
 
-#### **Using OpenComposite (Recommended)**
+#### **Using Oasis SteamVR driver (Recommended)**
+1. Make sure your headset is connected to your PC  
+2. Install [Oasis Driver for Windows Mixed Reality](https://store.steampowered.com/app/3824490/Oasis_Driver_for_Windows_Mixed_Reality/)   
+3. Follow [Oasis instructions](https://github.com/mbucchia/Oasis-Driver-for-Windows-Mixed-Reality/wiki#hello-and-welcome-to-the-oasis-driver-for-windows-mixed-reality-documentation)   
+4. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
+
+#### **Using OpenComposite**
+Use this ONLY if the Oasis SteamVR driver doesn't work for you  
 1. Make sure your headset is connected to your PC  
 2. Install and set up Windows Mixed Reality from the Microsoft Store
 3. Install and set up OpenXR Tools for Windows Mixed Reality from the Microsoft Store  
@@ -91,13 +98,6 @@ Generally not recommended to use
 6. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 
 Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=_72-openxr-toolkit)
-
-#### **Using SteamVR**
-1. Make sure your headset is connected to your PC  
-2. Install and set up Windows Mixed Reality from the Microsoft Store  
-3. Install and set up SteamVR from Steam  
-4. Install Windows Mixed Reality for SteamVR from Steam  
-5. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 
 <!-- tabs:end -->
 
