@@ -5,7 +5,8 @@
 Foveated rendering helps to achieve greater performance by rendering the outer parts of the image at a lower resolution as shown in the example below. On most headsets only the center part of the lense is in focus and can display the image clearly, except for pancake lenses.  
 Foveated rendering is a significant performance boost (GPU wise) so it is recommended to take advantage of it.   
 
-<img src="https://github.com/user-attachments/assets/9a4c7415-2240-463d-8455-646f1ae8d1ff" width="400">   
+<img src="https://github.com/user-attachments/assets/98694f0e-0f48-4127-92e8-3f9049dd732f" width="400"></br>
+
 
 **How to enable Foveated rendering (Use only one of these methods, click to expand):**  
 <details>
