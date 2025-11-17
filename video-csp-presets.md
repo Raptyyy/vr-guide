@@ -1,9 +1,9 @@
 # Video and CSP Presets
 ?> **NOTICE** Save your current settings as presets in Content Manager for Video and Custom Shaders Patch !
 
-## 4.1 Video Presets
-These are some video presets I made if you don't want to read through the settings below, try each one out and see what works best. Also adjust to your needs.  
-Make sure to double check the <ins>Rendering Mode</ins> so that its set correctly for your headset !  
+## Video Presets
+Try each one out and see what works best, also adjust to your needs.  
+Make sure to double check the <ins>Rendering Mode</ins> for your headset !  
 
 - High Performance: [Link here](https://acstuff.club/s/lW4B) (Disable post processing if you need even more performance)  
 - Balanced: [Link here](https://acstuff.club/s/oFw)
@@ -11,8 +11,8 @@ Make sure to double check the <ins>Rendering Mode</ins> so that its set correctl
 
 ?> You don't need to use frame limiters in VR since the framerate will be capped to the headsets refresh rate anyway. Using fps limiters can potentially cause performance issues.
 
-## 4.2 CSP Setting Presets
-These presets are simply to be used as a base for your own preference. Test the presets out and adjust as needed.  
+## CSP Setting Presets
+These presets are simply to be used as a base for your own preference, test the presets out and adjust as needed.  
 
 - High Performance - [Link here](https://acstuff.club/s/Ozx3) (This preset has a lot of modules disabled for a little extra performance)  
 - Balanced - [Link here](https://acstuff.club/s/PaP3)  

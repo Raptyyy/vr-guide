@@ -1,9 +1,6 @@
-# Basic VR setup
+# Headset setup
 
-?> Click on your brand of headset to expand the instructions, you only need to use one of the provided methods.
-
-?> Once you have the correct settings applied for your headset, test it out in singleplayer first before joining a server !
-
+?> Click on your brand of headset to expand the instructions, use whichever method works best if there's multiple.
 
 <details>
   <summary style="cursor: pointer"><b>Oculus / Meta</b></summary>
@@ -31,7 +28,7 @@ Intended more for advanced users
 3. Set up OpenComposite, [instructions here](/opencomposite-openxr-toolkit?id=to-install-opencomposite)
 4. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and set "Rendering Mode" to "OpenVR"  
 
-Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=_72-openxr-toolkit)
+Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=openxr-toolkit)
 
 
 #### **Virtual Desktop**
@@ -97,7 +94,7 @@ Use this ONLY if the Oasis SteamVR driver doesn't work for you
 5. Set up OpenComposite, [instructions here](/opencomposite-openxr-toolkit?id=to-install-opencomposite)  
 6. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 
-Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=_72-openxr-toolkit)
+Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=openxr-toolkit)
 
 <!-- tabs:end -->
 
@@ -116,7 +113,7 @@ Using this method you can also look into the [OpenXR Toolkit](/opencomposite-ope
 5. Set up OpenComposite, [instructions here](/opencomposite-openxr-toolkit?id=to-install-opencomposite)
 6. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 
-Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=_72-openxr-toolkit)
+Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=openxr-toolkit)
 
 #### **Using SteamVR**
 1. Make sure your headset is connected to your PC
