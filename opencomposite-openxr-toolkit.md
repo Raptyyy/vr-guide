@@ -1,6 +1,6 @@
 ## OpenComposite
 Recommended for Rift, Quest or Pimax headsets</br>
-Not needed for native SteamVR headsets (Vive, Index, PSVR2, Bigscreen, Oasis)</br>
+Not needed for native SteamVR headsets (Vive, Index, PSVR2, Bigscreen, WMR using Oasis)</br>
 Translates OpenVR games to OpenXR which means SteamVR isn't needed to run the game and reduces resource usage</br>
 OpenComposite can also be used with Virtual Desktop when using it with VDXR, [more info here](https://github.com/mbucchia/VirtualDesktop-OpenXR/wiki)  
 
