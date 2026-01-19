@@ -62,9 +62,9 @@ Not related to performance but there are good NeckFX scripts for VR to enhance i
 - **Refresh rate per frame** set to `Update single reflection per frame` for best performance, can look a little laggy on lower refresh rate headsets, use higher if needed.
 
 # Weather FX
-**Weather style** this should be set to either `Pure Gamma` or `Pure LCS`. `Pure Gamma` is the recommended option as of now and has better performance, `Pure LCS` is able to produce a better looking image but could cause some issues too.  
+**Weather style** this should be set to either `Pure Gamma` or `Pure LCS`. `Pure Gamma` is the default while `Pure LCS` might be able to produce a better looking image but could cause some issues too.  
 
-**Replace YEBIS with lightweight alternative** is a more basic post-processing implementation which uses less CPU and GPU resources, for performance I would recommend to `enable` it. Does not work with some pp filters like C13, can also cause excessive glare.  
+**Replace YEBIS with lightweight alternative** is a more basic post-processing implementation which uses less CPU and GPU resources. `enable` this setting if you need more performance. Does not work with some pp filters like C13, can also cause excessive or blocky glare effects.  
 
 **Automatically guess white reference point** This can make the UI very bright when using Pure, `disable` it.  
 

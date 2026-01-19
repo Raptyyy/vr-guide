@@ -53,10 +53,10 @@ Generally not recommended to use
 
 ### Oculus / Meta additional notes and troubleshooting  
 
+- Run the USB test to make sure you are using a compatible cable and a USB 3 port, you can follow [this video here](https://youtu.be/vvwCVfqBxHw?si=XHUOMkvEDwcnUTrJ&t=244) for instructions. If the USB test shows that you are not using a USB 3 connection then you will likely run into issues when using quest link.
 - There are additional settings to tweak in the `Oculus Debug Tool` like bitrate, FOV tangents, ASW etc., you can learn more about it in [this video about the debug tool](https://youtu.be/ZO9A39eypbQ?si=7HLkPuwM5P-XJw8G)
 - If you're using the USB cable and quest link (wired) set the encode bitrate to 500mbps or higher in the Oculus Debug Tool.  
 - Game lagging when using the headset wirelessly: Your router might not be able to handle the high amount of bandwidth required for a smooth experience, this will generally show as high network latency. Try to lower the bitrate in the Oculus Debug Tool or set it to 0 for auto bitrate.  
-- When using USB-C make sure your headset runs at USB 3 and not USB 2 speeds (Should be around 1.5Gbps or higher), if it keeps connecting via USB 2 even with a new cable and using a USB 3 port, reset your headset to factory defaults which will fix the issue.
 
 </details>
 <br>
@@ -86,8 +86,15 @@ Generally not recommended to use
 3. Follow [Oasis instructions](https://github.com/mbucchia/Oasis-Driver-for-Windows-Mixed-Reality/wiki#hello-and-welcome-to-the-oasis-driver-for-windows-mixed-reality-documentation)   
 4. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 
+### Additional notes
+
+- While Oasis is not officially supported on Windows 10, it does work and shouldn't have any issues. I would recommend using it instead of WMR regardless.
+- If you want access to the OpenXR Toolkit then you can still use OpenComposite with Oasis, although it's not neccessary.
+- When using Oasis, in SteamVR video settings 150% resolution scale will be the same as 100% on WMR, that is the sweetspot in terms of quality and performance.
+- If the image is not as sharp on Oasis as it was on WMR then try lowering the FOV in SteamVR Video settings per game to around 92 - 95%. You can also use vrperfkit to add some CAS sharpening, around 70% gives good results.
+
 #### **Using OpenComposite**
-Use this ONLY if the Oasis SteamVR driver doesn't work for you  
+
 1. Make sure your headset is connected to your PC  
 2. Install and set up Windows Mixed Reality from the Microsoft Store
 3. Install and set up OpenXR Tools for Windows Mixed Reality from the Microsoft Store  
@@ -95,7 +102,8 @@ Use this ONLY if the Oasis SteamVR driver doesn't work for you
 5. Set up OpenComposite, [instructions here](/opencomposite-openxr-toolkit?id=to-install-opencomposite)  
 6. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
 
-Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=openxr-toolkit)
+### Additional notes
+- Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=openxr-toolkit)
 
 <!-- tabs:end -->
 
@@ -124,4 +132,46 @@ Using this method you can also look into the [OpenXR Toolkit](/opencomposite-ope
 
 <!-- tabs:end -->
 
+<!-- ### Pimax additional notes
+
+- Some Pimax headsets that have eye tracking support DFR (dynamic foveated rendering) on AC. This is similar to [Foveated Rendering](foveated-rendering) but the rings will follow your eye gaze which can help with performance.
+<br/>Also make sure `Nvidia VRS` in CSP - Display mode - VR is disabled -->
+
+
 </details>
+<br/>
+
+<details>
+  <summary style="cursor: pointer"><b>PS VR2</b></summary>
+
+<!-- tabs:start -->
+
+#### **Using SteamVR (Recommended)**
+1. Follow the instructions for setting up PSVR2 for PC here - [instructions here](https://www.playstation.com/en-us/support/hardware/pc-ps-vr2-set-up/) 
+2. PSVR2 functions as a SteamVR headset, so make sure SteamVR is running and the headset is detected.
+3. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
+
+### Additional notes
+
+- PSVR2 supports eye tracking and it's possible to use DFR (dynamic foveated rendering) on AC using PimaxMagic4All. This is similar to [Foveated Rendering](foveated-rendering) but the rings will follow your eye gaze which is preferable quality wise.<br/>
+For that to work you need to set up the [PSVR2 Toolkit](https://github.com/BnuuySolutions/PSVR2Toolkit) and then download [PimaxMagic4All](https://github.com/mbucchia/PimaxMagic4All). PimaxMagic4All must be opened in the background for DFR to work.
+<br/>Also make sure `Nvidia VRS` in CSP - Display mode - VR is disabled
+<br/>This does not work with OpenComposite.
+
+#### **Using OpenComposite**
+
+1. Follow the instructions for setting up PSVR2 for PC here - [instructions here](https://www.playstation.com/en-us/support/hardware/pc-ps-vr2-set-up/) 
+2. PSVR2 functions as a SteamVR headset, so make sure SteamVR is running and the headset is detected.
+5. Set up OpenComposite, [instructions here](/opencomposite-openxr-toolkit?id=to-install-opencomposite)  
+6. In Content Manager go to <ins>Settings > Assetto Corsa > Video</ins> and change "Rendering Mode" to "OpenVR"  
+
+### Additional notes
+
+- Using this method you can also look into the [OpenXR Toolkit](/opencomposite-openxr-toolkit?id=openxr-toolkit)
+
+
+<!-- tabs:end -->
+
+</details>
+<br/>
+
