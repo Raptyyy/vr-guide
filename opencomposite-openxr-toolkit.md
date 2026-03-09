@@ -23,10 +23,10 @@ OpenComposite can also be used with Virtual Desktop when using it with VDXR, [mo
 ?> **IMPORTANT** If you encounter any issues using OpenComposite - simply delete the `openvr_api.dll` and rename the `openvr_api_original.dll` file back to `openvr_api.dll`
 
 ## OpenXR Toolkit
-Adds additional features like upscaling, foveated rendering, world scale or field of view adjustability and [more](https://mbucchia.github.io/OpenXR-Toolkit/features.html)</br>
+Adds additional features like upscaling, foveated rendering, world scale or field of view adjustability and [more](https://web.archive.org/web/20260130211411/https://mbucchia.github.io/OpenXR-Toolkit/features.html)</br>
 **Requires OpenComposite**</br>
-[Download the OpenXR Toolkit here](https://mbucchia.github.io/OpenXR-Toolkit/#downloads)</br>
-By default you use Ctrl + F1 to F4 to navigate the on screen menu, [can be changed in the OpenXR Toolkit Companion App](https://mbucchia.github.io/OpenXR-Toolkit/#3-launch-the-openxr-toolkit-companion-app-to-confirm-that-the-software-is-active)
+[Download the OpenXR Toolkit here](https://github.com/mbucchia/OpenXR-Toolkit/releases/)</br>
+By default you use Ctrl + F1 to F4 to navigate the on screen menu, [can be changed in the OpenXR Toolkit Companion App](https://web.archive.org/web/20260130211252/https://mbucchia.github.io/OpenXR-Toolkit/#3-launch-the-openxr-toolkit-companion-app-to-confirm-that-the-software-is-active)
 
 
 ### Recommended settings for the Toolkit: 
